@@ -1,4 +1,4 @@
-export const pageData = {
+const pageData = {
   header: {
     nadpis: 'Jogíni',
     polozkyMenu: [
